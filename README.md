@@ -35,6 +35,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arengolazizian&show_icons=true&locale=en&layout=compact" alt="arengolazizian" /></p>
 
 
+
+
+---
 - 📫 How to reach me **arenfamilgolaziz@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/0twau0kpwd](https://flowcv.com/resume/0twau0kpwd)
