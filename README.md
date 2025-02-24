@@ -6,7 +6,7 @@ CS Graduate from Sharif University, passionate about **AI, Deep Learning, and Ge
 💻 **Python, PyTorch, TensorFlow, SQL, Git, Linux**  
 📊 **Generative Models, Transformers, NLP, Reinforcement Learning**  
 
-📂 **Find my projects on my GitHub page.**  
+📂 Check out my projects in the repositories section.
 
 ## 📬 Connect with Me  
 📌 **GitHub:** [ArenGolazizian](https://github.com/ArenGolazizian)  
