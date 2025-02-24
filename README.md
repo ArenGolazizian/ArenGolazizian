@@ -3,11 +3,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arengolazizian&label=Profile%20views&color=0e75b6&style=flat" alt="arengolazizian" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArenGolazizian?tab=repositories](https://github.com/ArenGolazizian?tab=repositories)
-
 - 📫 How to reach me **arenfamilgolaziz@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/0twau0kpwd](https://flowcv.com/resume/0twau0kpwd)
+
+ ## 📂 My Projects
+
+### 🧠 Generative Models
+- [DDPM vs GANs](https://github.com/ArenGolazizian/generative-DDPM-vs-GANs)
+- [PixelCNN](https://github.com/ArenGolazizian/generative-PixelCNN)
+
+### 📜 Natural Language Processing (NLP)
+- [NER with DistilBERT](https://github.com/ArenGolazizian/nlp-NER-DistilBERT)
+- [Persian Text Generation](https://github.com/ArenGolazizian/nlp-Persian-Text-Generation)
+
+### 📈 Time Series Forecasting
+- [Informer for Time Series](https://github.com/ArenGolazizian/timeseries-Informer-Forecasting)
+- [TSMixer Forecasting](https://github.com/ArenGolazizian/timeseries-TSMixer-Forecasting)
+
+### 🎯 Supervised Learning
+- [Medical Image Segmentation (U-Net)](https://github.com/ArenGolazizian/supervised-U-Net-Segmentation)
+- [Traffic Prediction using GRU](https://github.com/ArenGolazizian/supervised-Traffic-GRU)
+
+### 🔍 Unsupervised Learning
+- [SimCLR for Contrastive Learning](https://github.com/ArenGolazizian/unsupervised-SimCLR-Contrastive)
+
+### 🕹️ Reinforcement Learning
+- [Deep Q-Network (DQN) on CartPole](https://github.com/ArenGolazizian/rl-DQN-CartPole)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
