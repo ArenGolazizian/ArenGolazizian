@@ -10,8 +10,7 @@
 - [PixelCNN](https://github.com/ArenGolazizian/generative-PixelCNN)
 
 ### 📜 Natural Language Processing (NLP)
-- [NER with DistilBERT](https://github.com/ArenGolazizian/nlp-NER-DistilBERT)
-- [Persian Text Generation](https://github.com/ArenGolazizian/nlp-Persian-Text-Generation)
+- [Text Classification with RNN & LSTM](https://github.com/ArenGolazizian/text-classification-rnn-lstm)
 
 ### 📈 Time Series Forecasting
 - [Informer for Time Series](https://github.com/ArenGolazizian/timeseries-Informer-Forecasting)
