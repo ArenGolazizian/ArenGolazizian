@@ -34,6 +34,16 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arengolazizian&show_icons=true&locale=en&layout=compact&v=1" alt="arengolazizian" /></p>
 
 
+### Tech Stack 🛠️
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arengolazizian&theme=dark" alt="GitHub Streak" /></p>
 
 
 
