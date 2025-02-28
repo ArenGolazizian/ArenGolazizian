@@ -11,6 +11,7 @@
 
 ### 📜 Natural Language Processing (NLP)
 - [Text Classification with RNN & LSTM](https://github.com/ArenGolazizian/text-classification-rnn-lstm)
+- [Transformer from Scratch: Implementing "Attention Is All You Need"](https://github.com/ArenGolazizian/transformer-from-scratch)
 
 ### 📈 Time Series Forecasting
 - [Informer for Time Series](https://github.com/ArenGolazizian/timeseries-Informer-Forecasting)
