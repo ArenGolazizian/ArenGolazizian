@@ -6,8 +6,7 @@
  ## 📂 My Projects
 
 ### 🧠 Generative Models
-- [DDPM vs GANs](https://github.com/ArenGolazizian/generative-DDPM-vs-GANs)
-- [PixelCNN](https://github.com/ArenGolazizian/generative-PixelCNN)
+- [Diffusion vs GANs](https://github.com/ArenGolazizian/Diffusion_vs_GANs)
 
 ### 📜 Natural Language Processing (NLP)
 - [Text Classification with RNN & LSTM](https://github.com/ArenGolazizian/text-classification-rnn-lstm)
