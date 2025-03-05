@@ -7,6 +7,7 @@
 
 ### 🧠 Generative Models
 - [Diffusion vs GANs](https://github.com/ArenGolazizian/Diffusion_vs_GANs)
+- [Diffusion-Based Sprite Generation: DDPM vs. DDIM](https://github.com/ArenGolazizian/DDPM-vs-DDIM-Sprites)
 
 ### 📜 Natural Language Processing (NLP)
 - [Text Classification with RNN & LSTM](https://github.com/ArenGolazizian/text-classification-rnn-lstm)
