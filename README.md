@@ -8,6 +8,7 @@
 ### 🧠 Generative Models
 - [Diffusion vs GANs](https://github.com/ArenGolazizian/Diffusion_vs_GANs)
 - [Diffusion-Based Sprite Generation: DDPM vs. DDIM](https://github.com/ArenGolazizian/DDPM-vs-DDIM-Sprites)
+- [Pix2Pix for Cityscapes: Segmented to Real-World Translation](https://github.com/ArenGolazizian/Pix2Pix-Cityscapes-Seg2Real)
 
 ### 📜 Natural Language Processing (NLP)
 - [Text Classification with RNN & LSTM](https://github.com/ArenGolazizian/text-classification-rnn-lstm)
