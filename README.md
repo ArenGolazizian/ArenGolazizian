@@ -45,11 +45,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arengolazizian&show_icons=true&locale=en&layout=compact&v=1" alt="arengolazizian" /></p>
-
-
-
 ---
 - 📫 How to reach me **arenfamilgolaziz@gmail.com**
 
