@@ -20,7 +20,7 @@
 - [TSMixer Forecasting](https://github.com/ArenGolazizian/timeseries-TSMixer-Forecasting)
 
 ### 🎯 Supervised Learning
-- [Medical Image Segmentation (U-Net)](https://github.com/ArenGolazizian/supervised-U-Net-Segmentation)
+- [Medical Image Segmentation with U-Net](https://github.com/ArenGolazizian/image-segmentation-unet)
 - [Traffic Prediction using GRU](https://github.com/ArenGolazizian/supervised-Traffic-GRU)
 
 ### 🔍 Unsupervised Learning
