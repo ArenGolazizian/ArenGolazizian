@@ -27,7 +27,7 @@
 - [SimCLR: Contrastive Representation Learning on STL-10](https://github.com/ArenGolazizian/SimCLR-Contrastive-Learning/tree/main)
 
 ### 🕹️ Reinforcement Learning
-- [Deep Q-Network (DQN) on CartPole](https://github.com/ArenGolazizian/rl-DQN-CartPole)
+- [Deep Q-Network (DQN) on CartPole](https://github.com/ArenGolazizian/DQN-CartPole)
 
 
 ## 🛠️ Tech Stack  
