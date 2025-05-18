@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aren</h1>
+<h3 align="center"><h3 align="center">Data Scientist · ML Engineer · Research-Driven </h3>
+</h3>
 
-I am a Computer Science graduate from Sharif University of Technology, specializing in machine learning, deep learning, and applied AI. My work covers a diverse array of domains, including generative modeling, natural language processing and reinforcement learning.
+I am a Computer Science student at Sharif University of Technology, specializing in machine learning, deep learning, and applied AI. My work covers a diverse array of domains, including generative modeling, natural language processing and reinforcement learning.
 
 This GitHub repository showcases a collection of my end-to-end machine learning and deep learning projects. In these projects, I explore both foundational algorithms and advanced architectures. Each project emphasizes a hands-on approach, focusing on clarity, reproducibility, and thoughtful implementation using frameworks such as PyTorch, TensorFlow, and Scikit-learn.
 
-Feel free to explore the repositories below to see how I build models from scratch, fine-tune pretrained architectures, and evaluate real-world datasets.
+Feel free to explore the repositories below!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arengolazizian&label=Profile%20views&color=0e75b6&style=flat" alt="arengolazizian" /> </p>
 
@@ -54,7 +56,8 @@ Feel free to explore the repositories below to see how I build models from scrat
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
----
-- 📫 How to reach me **arenfamilgolaziz@gmail.com**
+## 🌎 Connect With Me
+📄 [Resume](https://flowcv.com/resume/0twau0kpwd) 
+📬 [Email](mailto:arenfamilgolaziz@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/aren-golazizian-33b3a0152)
 
-- 📄 Know about my experiences [https://flowcv.com/resume/0twau0kpwd](https://flowcv.com/resume/0twau0kpwd)
