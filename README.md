@@ -13,6 +13,7 @@
 
 
 ### 📜 Natural Language Processing (NLP)
+- [Persian Language Modeling with RNN & Transformer](https://github.com/ArenGolazizian/Persian-Language-Model)
 - [Text Classification with RNN & LSTM](https://github.com/ArenGolazizian/text-classification-rnn-lstm)
 - [Transformer from Scratch: Implementing "Attention Is All You Need"](https://github.com/ArenGolazizian/transformer-from-scratch)
 - [DistilNER: Fine-tuning DistilBERT for Named Entity Recognition](https://github.com/ArenGolazizian/distilbert-ner-conll2003)
