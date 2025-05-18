@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aren</h1>
-<h3 align="center"></h3>
+
+I am a Computer Science graduate from Sharif University of Technology, specializing in machine learning, deep learning, and applied AI. My work covers a diverse array of domains, including generative modeling, natural language processing and reinforcement learning.
+
+This GitHub repository showcases a collection of my end-to-end machine learning and deep learning projects. In these projects, I explore both foundational algorithms and advanced architectures. Each project emphasizes a hands-on approach, focusing on clarity, reproducibility, and thoughtful implementation using frameworks such as PyTorch, TensorFlow, and Scikit-learn.
+
+Feel free to explore the repositories below to see how I build models from scratch, fine-tune pretrained architectures, and evaluate real-world datasets.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arengolazizian&label=Profile%20views&color=0e75b6&style=flat" alt="arengolazizian" /> </p>
 
@@ -18,9 +23,9 @@
 - [Transformer from Scratch: Implementing "Attention Is All You Need"](https://github.com/ArenGolazizian/transformer-from-scratch)
 - [DistilNER: Fine-tuning DistilBERT for Named Entity Recognition](https://github.com/ArenGolazizian/distilbert-ner-conll2003)
 
-### 📈 Time Series Forecasting
-- [Informer for Time Series](https://github.com/ArenGolazizian/timeseries-Informer-Forecasting)
-- [TSMixer Forecasting](https://github.com/ArenGolazizian/timeseries-TSMixer-Forecasting)
+<!-- ### 📈 Time Series Forecasting -->
+<!-- - [Informer for Time Series](https://github.com/ArenGolazizian/timeseries-Informer-Forecasting) -->
+<!-- - [TSMixer Forecasting](https://github.com/ArenGolazizian/timeseries-TSMixer-Forecasting) -->
 
 ### 🎯 Supervised Learning
 - [Medical Image Segmentation with U-Net](https://github.com/ArenGolazizian/image-segmentation-unet)
