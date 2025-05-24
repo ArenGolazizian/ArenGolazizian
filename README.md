@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aren</h1>
-<h3 align="center"><h3 align="center">Data Scientist · Research-Driven ·  LLMs, NLP & GenAI </h3>
+<h3 align="center"><h3 align="center">Data Scientist · Research-Driven ·  LLMs </h3>
 </h3>
 
 I am a Computer Science student at Sharif University of Technology, specializing in machine learning, deep learning, and applied AI. My work covers a diverse array of domains, including generative modeling, natural language processing and reinforcement learning.
