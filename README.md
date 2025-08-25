@@ -11,7 +11,9 @@ Feel free to explore the repositories below!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arengolazizian&label=Profile%20views&color=0e75b6&style=flat" alt="arengolazizian" /> </p>
 
  ## 📂 My Projects
-
+### 🤖 Large Language Models (LLMs)
+- [Alice in Wonderland: AI Interactive Storytelling](https://github.com/ArenGolazizian/alice-interactive-storytelling)
+  
 ### 🧠 Generative Models
 - [Diffusion vs GANs](https://github.com/ArenGolazizian/Diffusion_vs_GANs)
 - [Diffusion-Based Sprite Generation: DDPM vs. DDIM](https://github.com/ArenGolazizian/DDPM-vs-DDIM-Sprites)
