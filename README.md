@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aren</h1>
 <h3 align="center"><h3 align="center">Data Scientist · Research-Driven ·  LLMs </h3>
 </h3>
-
-I am a Computer Science student at Sharif University of Technology, specializing in machine learning, deep learning, and applied AI. My work covers a diverse array of domains, including generative modeling, natural language processing and reinforcement learning.
-
-This GitHub repository showcases a collection of my end-to-end machine learning and deep learning projects. In these projects, I explore both foundational algorithms and advanced architectures. Each project emphasizes a hands-on approach, focusing on clarity, reproducibility, and thoughtful implementation using frameworks such as PyTorch, TensorFlow, and Scikit-learn.
-
-Feel free to explore the repositories below!
+Building cool stuff with LLMs
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arengolazizian&label=Profile%20views&color=0e75b6&style=flat" alt="arengolazizian" /> </p>
 
