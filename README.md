@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arengolazizian&label=Profile%20views&color=0e75b6&style=flat" alt="arengolazizian" /> </p>
 
- ## 📂 My Projects
+ ## My Projects
 ### 🤖 Large Language Models (LLMs)
+- [AI Tutor](https://github.com/ArenGolazizian/AI-Tutor)
 - [Alice in Wonderland: AI Interactive Storytelling](https://github.com/ArenGolazizian/alice-interactive-storytelling)
   
 ### 🧠 Generative Models
