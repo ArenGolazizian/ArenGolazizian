@@ -7,7 +7,7 @@
  ## My Projects
 ### 🤖 Large Language Models (LLMs)
 - [Aivas: Your Local AI Voice Assistant](https://github.com/ArenGolazizian/Aivas)
-- [AI Tutor: Multi-Tenant RAG-based Educational Platform](https://github.com/ArenGolazizian/AI-Tutor)
+- [AI Tutor: Production ready RAG-based Educational Platform](https://github.com/ArenGolazizian/AI-Tutor)
 - [Interactive narrator: RAG-Enhanced Storytelling App](https://github.com/ArenGolazizian/alice-interactive-storytelling)
   
 ### 🧠 Generative Models
