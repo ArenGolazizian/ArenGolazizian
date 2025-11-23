@@ -6,8 +6,9 @@
 
  ## My Projects
 ### 🤖 Large Language Models (LLMs)
-- [AI Tutor: Multi-Tenant RAG Educational Platform](https://github.com/ArenGolazizian/AI-Tutor)
-- [Alice in Wonderland: AI Interactive Storytelling](https://github.com/ArenGolazizian/alice-interactive-storytelling)
+- [Aivas: Your Local AI Voice Assistant](https://github.com/ArenGolazizian/Aivas)
+- [AI Tutor: Multi-Tenant RAG-based Educational Platform](https://github.com/ArenGolazizian/AI-Tutor)
+- [Interactive narrator: RAG-Enhanced Storytelling App](https://github.com/ArenGolazizian/alice-interactive-storytelling)
   
 ### 🧠 Generative Models
 - [Diffusion vs GANs](https://github.com/ArenGolazizian/Diffusion_vs_GANs)
